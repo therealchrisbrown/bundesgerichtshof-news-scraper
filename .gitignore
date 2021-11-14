@@ -1,0 +1,8 @@
+#OS junk files
+[Tt]humbs.db
+*.DS_Store
+
+#Project
+*.env
+*old*
+results
